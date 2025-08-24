@@ -107,7 +107,7 @@ EXEC DeleteProduct @product_id = 3;
 EXEC ViewProductDetails @product_id = 1;
 
 
-**🎯 Learning Outcomes**
+### **🎯 Learning Outcomes**
 ✔️ Designed a normalized relational database
 ✔️ Implemented triggers for automatic inventory updates
 ✔️ Built views for quick data access and reports
